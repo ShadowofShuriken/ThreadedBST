@@ -1,0 +1,1 @@
+152120191076 Hüseyin Topcu => add, remove, find, min, max, previous, next functions and editted eraseTreeNodes function
